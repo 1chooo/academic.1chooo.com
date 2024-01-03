@@ -20,10 +20,10 @@ module.exports = {
   ],
   education: [
     {
-      date: 'Sep. 2020 - Present',
+      date: 'Present - ',
       icon: 'university',
-      title: 'Bachelor\'s degree, Atmospheric Sciences and Meteorology & minor in Computer Science',
-      location: 'Zhongli District, Taoyuan City, Taiwan',
+      title: 'To be continued...',
+      location: 'Utopia',
     }, {
       date: 'Sep. 2020 - Present',
       icon: 'university',
@@ -46,14 +46,16 @@ module.exports = {
     {
       url: '/cv.pdf',
       icon: ['ai', 'cv'],
-    }, {
-      url: 'https://scholar.google.com/citations?user=lPlQpqoAAAAJ&hl=en',
-      icon: ['fa', 'graduation-cap'],
-    }, {
-      url: 'https://github.com/sleepymalc',
+    }, 
+    // {
+    //   url: 'https://scholar.google.com/citations?user=lPlQpqoAAAAJ&hl=en',
+    //   icon: ['fa', 'graduation-cap'],
+    // }, 
+    {
+      url: 'https://github.com/1chooo',
       icon: ['fab', 'github'],
     }, {
-      url: 'https://www.linkedin.com/in/pingbang-hu-78a190215',
+      url: 'https://www.linkedin.com/in/1chooo/',
       icon: ['fab', 'linkedin'],
     }, {
       url: 'https://X.com/PingbangHu',
