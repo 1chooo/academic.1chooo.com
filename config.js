@@ -4,37 +4,43 @@ module.exports = {
   tocMaxDepth: 2,
   excerptMaxLength: 500,
   postsForArchivePage: 3,
-  siteUrl: 'https://pbb.wtf',
-  title: 'Pingbang Hu',
-  description: 'Pingbang Hu\'s website.',
-  author: 'Pingbang Hu',
-  authorAlternative: 'Write-The-Formula',
+  siteUrl: 'https://1chooo.com',
+  title: 'Hugo ChunHo Lin',
+  description: 'Hugo ChunHo Lin\'s website.',
+  author: 'Hugo ChunHo Lin',
+  authorAlternative: 'Day 1',
   professions: [
-    'I speak TeX'
+    '"𝘿𝙧𝙚𝙖𝙢𝙨 𝙘𝙤𝙢𝙚 𝙩𝙧𝙪𝙚, 𝙬𝙝𝙚𝙣 🫵🏻 𝙙𝙤𝙣’𝙩 𝙨𝙡𝙚𝙚𝙥…"'
   ],
   introduction: [
-    'I\'m a first-year Ph.D. student at [*University of Illinois Urbana-Champaign*](https://illinois.edu/) 🌽 advised by [Jiaqi Ma](https://jiaqima.github.io/). I obtained my [dual Bachelor degree](https://www.ji.sjtu.edu.cn/academics/ipo/study-abroad/degree-programs/) from [*University of Michigan*](https://umich.edu/) 〽️ and [*Shanghai Jiao Tong University*](https://en.sjtu.edu.cn/) 🇨🇳.',
-    `*I do **ML** and **TCS** with **math** on **graphs***. In general, I define new problems and find existing problems, design corresponding *fast*, *robust*, and *fair* algorithms, develop their theories, and eventually apply them to make social impacts.`,
-    `In my spare time, I do [*street photography*](https://street.pbb.wtf/) 📷 and I'm constantly writing [*course notes*](./posts/Notes) 📝.`,
-    `🔔 **I'm looking for 2024 Summer research internships!**`,
+    'I am Hugo ChunHo Lin, a 4th-year student at National Central University (NCU), driven by a ***genuine passion*** for the field of **Software Engineering 💻**.',
+    'I am currently preparing my application for a Master\'s Degree, while simultaneously serving as a **2023 Amazon Web Services (AWS) Educate Cloud Ambassador** and an **Ex Software Engineering (SWE) Intern at PEGATROON**.',
+    'As part of my preparations, I am focusing on enhancing my programming skills in languages such as `GO`, `Flutter`, and `JavaScript`. Additionally, I am actively studying **Data structures** and **Algorithms** to further strengthen my technical expertise.',
+    '🔔 **I\'m looking for 2024 Summer research internships!**',
   ],
   education: [
     {
-      date: 'Aug. 2023 - Present',
+      date: 'Sep. 2020 - Present',
       icon: 'university',
-      title: 'Ph.D. in Information Science',
-      location: 'School of Information Science, University of Illinois Urbana-Champaign',
+      title: 'Bachelor\'s degree, Atmospheric Sciences and Meteorology & minor in Computer Science',
+      location: 'Zhongli District, Taoyuan City, Taiwan',
     }, {
-      date: 'Sep. 2021 - Apr. 2023',
+      date: 'Sep. 2020 - Present',
       icon: 'university',
-      title: 'B.Sc. in Computer Science (Summa Cum Laude) & minor in Mathematics',
-      location: 'College of Engineering & Literature, Science, and the Arts, University of Michigan',
-    }, {
-      date: 'Sep. 2019 - Aug. 2023',
-      icon: 'university',
-      title: 'B.Eng. in Electrical and Computer Engineering & minor in Computer Science',
-      location: 'UM-SJTU Joint Institute, Shanghai Jiao Tong University',
-    }
+      title: 'Bachelor\'s degree, Atmospheric Sciences and Meteorology & minor in Computer Science',
+      location: 'Zhongli District, Taoyuan City, Taiwan',
+    },
+    // }, {
+    //   date: 'Sep. 2021 - Apr. 2023',
+    //   icon: 'university',
+    //   title: 'B.Sc. in Computer Science (Summa Cum Laude) & minor in Mathematics',
+    //   location: 'College of Engineering & Literature, Science, and the Arts, University of Michigan',
+    // }, {
+    //   date: 'Sep. 2019 - Aug. 2023',
+    //   icon: 'university',
+    //   title: 'B.Eng. in Electrical and Computer Engineering & minor in Computer Science',
+    //   location: 'UM-SJTU Joint Institute, Shanghai Jiao Tong University',
+    // }
   ],
   social: [
     {
@@ -54,9 +60,9 @@ module.exports = {
       icon: ['fab', 'twitter'],
     },
   ],
-  birthday: 'Nov. 10, 2000',
-  location: 'Illinois, United States',
-  email: 'pbb@illinois.com',
+  birthday: 'Jan. 27, 2002',
+  location: 'Taipei, Taiwan 🇹🇼',
+  email: 'hugo970217@gmail.com',
   pages: {
     home: '/',
     posts: 'posts',
