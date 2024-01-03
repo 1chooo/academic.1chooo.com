@@ -4,7 +4,7 @@ module.exports = {
   tocMaxDepth: 2,
   excerptMaxLength: 500,
   postsForArchivePage: 3,
-  siteUrl: 'https://1chooo.com',
+  siteUrl: 'https://1chooo-com.vercel.app/',
   title: 'Hugo ChunHo Lin',
   description: 'Hugo ChunHo Lin\'s website.',
   author: 'Hugo ChunHo Lin',
