@@ -10,7 +10,7 @@ module.exports = {
   author: 'Hugo ChunHo Lin',
   authorAlternative: 'Day 1',
   professions: [
-    '"𝘿𝙧𝙚𝙖𝙢𝙨 𝙘𝙤𝙢𝙚 𝙩𝙧𝙪𝙚, 𝙬𝙝𝙚𝙣 🫵🏻 𝙙𝙤𝙣’𝙩 𝙨𝙡𝙚𝙚𝙥…"'
+    '"𝘿𝙧𝙚𝙖𝙢𝙨 𝙘𝙤𝙢𝙚 𝙩𝙧𝙪𝙚,\n 𝙬𝙝𝙚𝙣 🫵🏻 𝙙𝙤𝙣’𝙩 𝙨𝙡𝙚𝙚𝙥…"'
   ],
   introduction: [
     'I am Hugo ChunHo Lin, a 4th-year student at National Central University (NCU), driven by a ***genuine passion*** for the field of **Software Engineering 💻**.',
@@ -58,11 +58,11 @@ module.exports = {
       url: 'https://www.linkedin.com/in/1chooo/',
       icon: ['fab', 'linkedin'],
     }, {
-      url: 'https://X.com/PingbangHu',
+      url: 'https://X.com/1chooo___',
       icon: ['fab', 'twitter'],
     },
   ],
-  birthday: 'Jan. 27, 2002',
+  birthday: 'Jan. 27, 2002 📲',
   location: 'Taipei, Taiwan 🇹🇼',
   email: 'hugo970217@gmail.com',
   pages: {
