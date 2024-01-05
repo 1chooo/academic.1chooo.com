@@ -14,8 +14,6 @@ cover: "./imgs/preview.png"
     This is Hugo ChunHo Lin 👨🏻‍💻
 </h3>
 
-## This is Hugo ChunHo Lin 👨🏻‍💻
-
 I am Hugo ChunHo Lin, a 4th-year student at National Central University (NCU), driven by a ***genuine passion*** for the field of **Software Engineering 💻**.   
 
 I am currently preparing my application for a Master's Degree, while simultaneously serving as a **2023 Amazon Web Services (AWS) Educate Cloud Ambassador** and an **Ex Software Engineering (SWE) Intern at PEGATROON**.
