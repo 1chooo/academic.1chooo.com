@@ -14,16 +14,6 @@ cover: "./imgs/preview.png"
     This is Hugo ChunHo Lin 👨🏻‍💻
 </h3>
 
-<div align="center">
-    <p>
-        <a href="https://1chooo-github-io-1chooo.vercel.app/" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
-        <a href="https://1chooo.github.io/1chooo-blog/" target="_blank"><b>📓 Blog</b></a> |
-        <a href="https://1chooo-github-io-1chooo.vercel.app/resume" target="_blank"><b>🧳 Resume</b></a> |
-        <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> |
-        <a href="https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA" target="_blank"><b>🎥 YouTube</b></a>
-    </p>
-</div>
-
 ## This is Hugo ChunHo Lin 👨🏻‍💻
 
 I am Hugo ChunHo Lin, a 4th-year student at National Central University (NCU), driven by a ***genuine passion*** for the field of **Software Engineering 💻**.   
