@@ -10,7 +10,7 @@ module.exports = {
   author: 'Hugo ChunHo Lin',
   authorAlternative: 'Day 1',
   professions: [
-    '"𝘿𝙧𝙚𝙖𝙢𝙨 𝙘𝙤𝙢𝙚 𝙩𝙧𝙪𝙚,\n 𝙬𝙝𝙚𝙣 🫵🏻 𝙙𝙤𝙣’𝙩 𝙨𝙡𝙚𝙚𝙥…"'
+    '"𝘿𝙧𝙚𝙖𝙢𝙨 𝙘𝙤𝙢𝙚 𝙩𝙧𝙪𝙚, 𝙬𝙝𝙚𝙣 🫵🏻 𝙙𝙤𝙣’𝙩 𝙨𝙡𝙚𝙚𝙥…"'
   ],
   introduction: [
     'I am Hugo ChunHo Lin, a 4th-year student at National Central University (NCU), driven by a ***genuine passion*** for the field of **Software Engineering 💻**.',
@@ -72,30 +72,41 @@ module.exports = {
     resume: 'resume',
     tags: 'tags',
     research: 'research',
+    projects: 'projects',
   },
   interests: [
+    // {
+    //   icon: 'chart-network',
+    //   title: 'Graph Neural Network',
+    // }, 
     {
-      icon: 'chart-network',
-      title: 'Graph Neural Network',
-    }, {
+      icon: 'laptop-code',
+      title: 'Open Source Contributor',
+    }, 
+    {
       icon: 'brain',
-      title: 'Learning Theory',
-    }, {
-      icon: `laptop-code`,
-      title: `Computational Complexity`,
-    }, {
-      icon: `hands-usd`,
-      title: `Game Theory`,
-    }, {
-      icon: 'chart-line',
-      title: 'High Dimensional Statistics',
-    }, {
-      icon: 'shapes',
-      title: 'Geometry \& Topology',
-    }, {
-      icon: 'function',
-      title: 'Analysis',
-    }
+      title: 'LLM',
+    }, 
+    // {
+    //   icon: `laptop-code`,
+    //   title: `Computational Complexity`,
+    // }, 
+    // {
+    //   icon: `hands-usd`,
+    //   title: `Game Theory`,
+    // }, 
+    // {
+    //   icon: 'chart-line',
+    //   title: 'High Dimensional Statistics',
+    // }, 
+    // {
+    //   icon: 'shapes',
+    //   title: 'Geometry \& Topology',
+    // }, 
+    // {
+    //   icon: 'function',
+    //   title: 'Analysis',
+    // }
   ],
   experience: [
     {
@@ -139,7 +150,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Selected Research',
+      title: 'Selected Projects',
       position: 'right',
       data: [
         {
@@ -259,13 +270,13 @@ module.exports = {
   ],
   defaultLanguage: 'en',
   contactFormUrl: process.env.CONTACT_FORM_ENDPOINT
-    || 'https://getform.io/f/09a3066f-c638-40db-ad59-05e4ed71e451',
+    || 'https://getform.io/',
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
   disqusScript: process.env.DISQUS_SCRIPT
     || 'https://tc-imba.disqus.com/embed.js',
   wakatime: {
-    username: 'sleepymalc',
-    activity: 'eb201619-dfe8-485e-b683-11ce3475ad61',
+    username: '1chooo',
+    activity: 'de962691-c66a-4501-860f-eb122ac6ea13',
     language: 'cccb943f-2bfc-47e5-b218-c56b858c1a90',
   },
 };
