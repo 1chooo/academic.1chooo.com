@@ -1,5 +1,5 @@
 ---
-title: "Who is Hugo ChunHo Lin 👨🏻‍💻"
+title: "$ which Hugo ChunHo Lin 👨🏻‍💻"
 tags: ["Hugo"]
 date: 2023-12-08
 path: "posts/who_is_hugo"
@@ -63,20 +63,27 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
     </a>
 </p>
 
+
 <div align="center">
-    <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=1chooo&style=for-the-badge" />
-    </a>
-    <a href="https://wakatime.com/@de962691-c66a-4501-860f-eb122ac6ea13" target="_blank">
-        <img src="https://wakatime.com/badge/user/de962691-c66a-4501-860f-eb122ac6ea13.svg?style=for-the-badge" alt="Total time coded since May 10 2023" />
-    </a>
+    <p align="center">
+        <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
+            <img src="https://komarev.com/ghpvc/?username=1chooo&style=for-the-badge" />
+        </a>
+        <a href="https://wakatime.com/@de962691-c66a-4501-860f-eb122ac6ea13" target="_blank">
+            <img src="https://wakatime.com/badge/user/de962691-c66a-4501-860f-eb122ac6ea13.svg?style=for-the-badge" alt="Total time coded since May 10 2023" />
+        </a>
+    </p>
+    <p>
+        <a href="https://github.com/1chooo" target="_blank"><b>👨🏻 GitHub</b></a> |
+        <a href="https://www.linkedin.com/in/1chooo/" target="_blank"><b>👨🏻‍💻 Linkedin</b></a> |
+        <a href="https://1chooo.com/cv.pdf" target="_blank"><b>🧳 Resume</b></a> |
+        <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> |
+        <a href="https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA" target="_blank"><b>🎥 YouTube</b></a>
+    </p>
+    <div>
+        <b>‘’𝘿𝙧𝙚𝙖𝙢𝙨 𝙘𝙤𝙢𝙚 𝙩𝙧𝙪𝙚, 𝙬𝙝𝙚𝙣 🫵🏻 𝙙𝙤𝙣’𝙩 𝙨𝙡𝙚𝙚𝙥…’’</b>
+    </div>
+    <div>
+        <b>©2023-2024  Hugo H. Lin</b>
+    </div>
 </div>
-
-
----
-
-‘’𝘿𝙧𝙚𝙖𝙢𝙨 𝙘𝙤𝙢𝙚 𝙩𝙧𝙪𝙚, 𝙬𝙝𝙚𝙣 🫵🏻 𝙙𝙤𝙣’𝙩 𝙨𝙡𝙚𝙚𝙥…’’
-
-- My Linkedin: https://www.linkedin.com/in/1chooo/
-- My GitHub: https://github.com/1chooo
-- AWS Educate Recommendations: https://awseducate.tw/2
