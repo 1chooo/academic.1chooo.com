@@ -8,12 +8,12 @@ module.exports = {
   title: 'Hugo ChunHo Lin',
   description: 'Hugo ChunHo Lin\'s website.',
   author: 'Hugo ChunHo Lin',
-  authorAlternative: 'Day 1',
+  authorAlternative: 'Day 1 ⚡️',
   professions: [
     '"𝘿𝙧𝙚𝙖𝙢𝙨 𝙘𝙤𝙢𝙚 𝙩𝙧𝙪𝙚, 𝙬𝙝𝙚𝙣 🫵🏻 𝙙𝙤𝙣’𝙩 𝙨𝙡𝙚𝙚𝙥…"'
   ],
   introduction: [
-    'I am Hugo ChunHo Lin, a 4th-year student at National Central University (NCU), driven by a ***genuine passion*** for the field of **Software Engineering 💻**.',
+    'I am Hugo ChunHo Lin, a 4th-year student at [*National Central University (NCU)*](https://www.ncu.edu.tw/), driven by a ***genuine passion*** for the field of **Software Engineering 💻**.',
     'I am currently preparing my application for a Master\'s Degree, while simultaneously serving as a **2023 Amazon Web Services (AWS) Educate Cloud Ambassador** and an **Ex Software Engineering (SWE) Intern at PEGATROON**.',
     'As part of my preparations, I am focusing on enhancing my programming skills in languages such as `GO`, `Flutter`, and `JavaScript`. Additionally, I am actively studying **Data structures** and **Algorithms** to further strengthen my technical expertise.',
     '🔔 **I\'m looking for 2024 Summer research internships!**',
@@ -110,8 +110,23 @@ module.exports = {
   ],
   experience: [
     {
+      title: 'Professional Experience',
+      position: 'right',
+      data: [
+        {
+          date: 'Oct. 2020 - Jun. 2021',
+          title: 'Backend Developer',
+          description: '**' +
+            'foodall' +
+            '**: ' +
+            'A food order platform in Taiwan, built with *Golang* and *Gin*, *MongoDB*, with RESTful API design.',
+          location: 'Virtual, Shanghai',
+        },
+      ],
+    },
+    {
       title: 'Teaching',
-      position: 'left',
+      position: 'right',
       data: [
         {
           date: 'Jan. 2023 - May 2023',
@@ -151,11 +166,11 @@ module.exports = {
     },
     {
       title: 'Selected Projects',
-      position: 'right',
+      position: 'left',
       data: [
         {
           date: 'Mar. 2022 - Dec. 2022',
-          title: 'Undergraduate Researcher',
+          title: 'SIMPLE AI',
           description: '**' +
             '[Finding Minimal Balanced Separators with Detection Sets](../research/minimal-balanced-separator)' +
             '**: ' +
@@ -170,21 +185,6 @@ module.exports = {
             '**: ' +
             'Develop various techniques to understand deep neural networks advised by [Wei Hu](https://weihu.me/) under the [SURE Program](https://sure.engin.umich.edu/).',
           location: 'University of Michigan',
-        },
-      ],
-    },
-    {
-      title: 'Software Development',
-      position: 'right',
-      data: [
-        {
-          date: 'Oct. 2020 - Jun. 2021',
-          title: 'Backend Developer',
-          description: '**' +
-            'foodall' +
-            '**: ' +
-            'A food order platform in Taiwan, built with *Golang* and *Gin*, *MongoDB*, with RESTful API design.',
-          location: 'Virtual, Shanghai',
         },
       ],
     },
