@@ -1,4 +1,4 @@
-# 1chooo.com
+# academic.1chooo.com
 
 
 <p align="center"><b><i>
@@ -28,3 +28,8 @@ Here's a quick summary guide from [gatsby-theme-academic](https://www.npmjs.com/
     ```
 
 3. Use the URL `http://localhost:8000` to see a preview.
+
+
+## Where to find icon
+
+- [Font Awesome](https://fontawesome.com/)
